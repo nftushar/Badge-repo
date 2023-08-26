@@ -1,1 +1,1 @@
-const pair = "extraordinari zzz";
+const pair = "extraordinari zz";
